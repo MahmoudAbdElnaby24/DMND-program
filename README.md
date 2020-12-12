@@ -8,7 +8,7 @@ these are the projects i have done for digital marketing at UDACITY. Feel free t
 **3- Craft social media posts.**
 •	Promote the blog on different social media platforms.
 
-### [Prohwct 2- Market with Email. The project was divided into 4 parts]
+### [Project 2- Market with Email. The project was divided into 4 parts]
 
 **1- Plan your content**
 •	Determine Marketing objective, KPI, and target persona.
