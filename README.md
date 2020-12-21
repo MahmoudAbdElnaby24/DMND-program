@@ -1,7 +1,8 @@
 # Digital Marketing Nanodegree program (DMND Program)
 these are the projects i have done for digital marketing at UDACITY. Feel free to get in touch with me via Linkedin https://www.linkedin.com/in/mahmoud-abdelnaby-887081109/\
 ### [Project 1- Market your content. The project was divided into 3 parts.]
-**1- Determine Marketing objective, KPI, and target persona.**
+**1- Plan your content**
+•	Determine Marketing objective, KPI, and target persona.
 **2- Write a blog post.**
 •	Select a theme for a blog post.
 •	The framework of the blog post. I use SCQA in storytelling.
