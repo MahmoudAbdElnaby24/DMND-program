@@ -21,15 +21,15 @@ these are the projects i have done for digital marketing at UDACITY. Feel free t
 ### [Project 3 - Conduct an SEO Audit. The project was divided into 4 parts]
 **1- on-site SEO audit** 
 **Content**
-Using Moz Keyword Explorertool to Identify which head and tail Keywords have the greatest potential
-Develop three Blog topics that incorporate the highest potential Keywords
-technical SEO audit
+• Using Moz Keyword Explorertool to Identify which head and tail Keywords have the greatest potential
+• Develop three Blog topics that incorporate the highest potential Keywords
+• technical SEO audit:
 improvie sites' HTML: title tag-meta- and alt-tags
 **2- off-site SEO** 
-Using the Moz OpenSite Explorer tool to perform a backlink audit
-Provide the three highest domain authority back link sites
-Using the SEMRush tool to strategize a link-building campaign and provide a list of three sites and their monthly organic search traffic
-Identify three websites that are relevant, high traffic sites to gain backlinks from to drive traffic 
+• Using the Moz OpenSite Explorer tool to perform a backlink audit
+• Provide the three highest domain authority back link sites
+• Using the SEMRush tool to strategize a link-building campaign and provide a list of three sites and their monthly organic search traffic
+• Identify three websites that are relevant, high traffic sites to gain backlinks from to drive traffic 
 **3- performance testsing** 
-perform site-speed and mobile-friendliness tests, explain why each is important
+• perform site-speed and mobile-friendliness tests, explain why each is important
 **4- provide recommendations to improve website from an SEO perspective**
